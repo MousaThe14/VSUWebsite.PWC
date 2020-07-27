@@ -13,7 +13,7 @@ publishDir = "docs"
 
 [params]
     author = "VSU Interns"
-    description = "2020 DSPG FOLAR"
+    description = "2020 DSPG PWC"
     logo = "favicon/uva-dspg-logo.jpg"
     githubUsername = "uva-bi-sdad"
     accent = "#011f6b" # dark colors do best
