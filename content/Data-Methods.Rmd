@@ -1,0 +1,28 @@
+---
+title: "Data Methods"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Variables
+
+[Race]
+[Age]
+[Poverty]
+[income]
+[Education Levels]
+[crime data]
+[jobs/industries/economics]
+
+### Methods
+[data discovery process]
+[challenges with finding data]
+
+### Data Sources
+
+[List your references here using APA format (or at least standardize all of the references using the same format).]
+
+[description of relevance of data sources]

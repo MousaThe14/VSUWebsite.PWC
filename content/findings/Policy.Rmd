@@ -1,0 +1,25 @@
+---
+title: "Policy"
+description: "How does locations of facilites affect health outcomes?"
+tags: ["R", "geospatial", "app"]
+weight: 2
+draft: false
+output: html_document
+---
+
+```{css, echo=FALSE}
+/* this chunnk of code centers all of the headings */
+h1, h2, h3 {
+  text-align: center;
+}
+```
+### Main Findings
+
+#### Gyms
+
+#### Parks
+
+#### Medical Facilities
+
+#### Grocery Stores
+

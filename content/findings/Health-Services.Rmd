@@ -1,0 +1,27 @@
+---
+title: "Health Services"
+description: "How does access to and costs of health services affect health outcomes?"
+tags: ["R", "networks"]
+weight: 4
+draft: false
+output: html_document
+---
+
+[Here you will describe the data discoversy process, the data used, and the methods employed for this single page. Since you already have a Project Overview and Data & Methods tabs, you probably want to keep this first paragraph fairly short and use the rest of the document to walk your readers through your analyses.] 
+
+### Main Findings 
+
+#### Health Costs and Access
+In Petersburg, Virginia, there were 7,055 preventable hospital stays per 100,000 people in 2017. This is a drastic comparison to Virginia’s rate of 4,461 preventable hospital stays per 100,000 
+Uninsured under age of 65 is 11.8%
+Only 1 Hospital
+
+#### Distance to medical facilities
+
+### Conclusion and Policy Implications 
+
+[Here you could highlight the main takeaways and the potential policy implications of your findings.] 
+
+### References 
+
+[List your references here using APA format (or at least standardize all of the references using the same format).]
