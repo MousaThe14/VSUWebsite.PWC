@@ -1,7 +1,6 @@
 ---
 title: "Social Factors"
 description: "How does poverty, accessibility, and other factors affect health outcomes?"
-tags: ["R", "geospatial"]
 weight: 1
 draft: false
 output: html_document

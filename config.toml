@@ -35,7 +35,7 @@ publishDir = "docs"
     weight = 2
 
 [[menu.main]]
-    url = "/methods/"
+    url = "/Data-Methods/"
     name = "Data & Methods"
     weight = 3
 

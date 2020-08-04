@@ -11,13 +11,13 @@
     
     
     <item>
-      <title>Results Section Three</title>
-      <link>/findings/results-section-three/</link>
+      <title>Health Services</title>
+      <link>/findings/health-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/findings/results-section-three/</guid>
+      <guid>/findings/health-services/</guid>
       <description>[Here you will describe the data discoversy process, the data used, and the methods employed for this single page. Since you already have a Project Overview and Data &amp;amp; Methods tabs, you probably want to keep this first paragraph fairly short and use the rest of the document to walk your readers through your analyses.]
-Main Findings[Here you will describe the results and include important visualizations from your project.</description>
+Main FindingsHealth Costs and AccessIn Petersburg, Virginia, there were 7,055 preventable hospital stays per 100,000 people in 2017.</description>
     </item>
     
   </channel>

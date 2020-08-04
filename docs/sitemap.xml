@@ -3,29 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/findings/general-overview/</loc>
+    <loc>/findings/social-factors/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-one/</loc>
+    <loc>/findings/policy/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-two/</loc>
+    <loc>/findings/individual-behavior/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-three/</loc>
-  </url>
-  
-  <url>
-    <loc>/methods/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/overview/</loc>
-    <priority>0</priority>
+    <loc>/findings/health-services/</loc>
   </url>
   
   <url>
@@ -46,6 +36,10 @@
   </url>
   
   <url>
+    <loc>/data-methods/</loc>
+  </url>
+  
+  <url>
     <loc>/findings/</loc>
   </url>
   
@@ -55,6 +49,10 @@
   
   <url>
     <loc>/tags/networks/</loc>
+  </url>
+  
+  <url>
+    <loc>/overview/</loc>
   </url>
   
   <url>
