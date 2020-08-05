@@ -1,7 +1,6 @@
 ---
 title: "Individual Behavior"
 description: "How does a person's habits affect health outcomes?"
-tags: ["R", "collapsibleTree"]
 weight: 3
 draft: false
 output: html_document

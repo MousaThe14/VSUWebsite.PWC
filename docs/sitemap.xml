@@ -20,19 +20,10 @@
   
   <url>
     <loc>/team/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/app/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/collapsibletree/</loc>
   </url>
   
   <url>
@@ -44,19 +35,7 @@
   </url>
   
   <url>
-    <loc>/tags/geospatial/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/networks/</loc>
-  </url>
-  
-  <url>
     <loc>/overview/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
   </url>
   
   <url>

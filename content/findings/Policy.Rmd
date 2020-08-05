@@ -1,7 +1,6 @@
 ---
 title: "Policy"
 description: "How does locations of facilites affect health outcomes?"
-tags: ["R", "geospatial", "app"]
 weight: 2
 draft: false
 output: html_document

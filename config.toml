@@ -49,6 +49,11 @@ publishDir = "docs"
     name = "Team"
     weight = 5
 
+[[menu.main]]
+    url = "/Powerpoint/"
+    name = "Powerpoint"
+    weight = 6
+
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
