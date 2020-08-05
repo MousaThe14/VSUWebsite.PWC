@@ -19,6 +19,14 @@
   </url>
   
   <url>
+    <loc>/data-methods/</loc>
+  </url>
+  
+  <url>
+    <loc>/overview/</loc>
+  </url>
+  
+  <url>
     <loc>/team/</loc>
   </url>
   
@@ -27,15 +35,7 @@
   </url>
   
   <url>
-    <loc>/data-methods/</loc>
-  </url>
-  
-  <url>
     <loc>/findings/</loc>
-  </url>
-  
-  <url>
-    <loc>/overview/</loc>
   </url>
   
   <url>

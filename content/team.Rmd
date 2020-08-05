@@ -15,15 +15,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ### FOLAR Project DSPG Team Members {style=text-align:center}
 ![Courtney](/./team_files/image3 (2).png){width=174px height=225px}![Jaida](/./team_files/image4.jpg){width=174px height=225px}![Kyra](/./team_files/image5.png){width=174px height=225px}![Mychala](/./team_files/image6.png){width=174px height=225px}![Kyle](/./team_files/image1.png){width=174px height=225px}![Mousa](/./team_files/image2.jpg){width=174px height=225px}
 
+[Courtney Lawson](https://www.linkedin.com/in/courtney-lawson-541254158) (Virginia State University, Computer Science); 
+[JaiDa Robinson](http://linkedin.com/in/jaida-robinson-92856b194) (Virginia State University, Counselor Education);
+[Kyra Faison](http://www.vsu.edu/) (University of Maryland, Baltimore County, Environmental Science);
+[Mychala Walker](https://www.linkedin.com/in/mychala-walker) (Virginia State Univerisity, Political Science);
+[Kyle Jacobs](www.linkedin.com/in/kyle-jacobs7) (Virginia State University, Agriculture);
+[Reginald Toure](https://www.linkedin.com/in/reginald-mousa-touré-32b550106) (Virginia State University, Computer Science)
+
 ### FOLAR Project DSPG Professors {style=text-align:center}
 
 
-[M. Omar Faison (Assistant Vice President, Research)](http://www.vsu.edu/) <br> [Wei-Bang Chen (Associate Professor, Computer Science)](http://www.vsu.edu/) <br> [Brian Sayre (Professor, Biology)](http://www.vsu.edu/) <br> [Sarah Witiak (Associate Professor, Biology) ](http://www.vsu.edu/) <br> [Dong Yoo (Associate Professor, Computer Information Systems) ](http://www.vsu.edu/)
+[M. Omar Faison](https://www.linkedin.com/in/omarfaison/) (Virginia State University, Assistant Vice President, Research) <br> [Wei-Bang Chen](http://www.cet.vsu.edu/departments/engineering/people/wei-bang-chen.php) (Virginia State University, Associate Professor, Computer Science) <br> [Brian Sayre](http://www.vsu.edu/) (Virginia State University, Professor, Biology) <br> [Sarah Witiak](http://www.cnhs.vsu.edu/departments/biology/people/sarah-witiak.php) (Virginia State University, Associate Professor, Biology) <br> [Dong Yoo](http://www.vsu.edu/) (Virginia State University, Associate Professor, Computer Information Systems) 
 
 ### Project Sponsors/Stakeholders {style=text-align:center}
 
-##### [Photos, information, and/or links about your sponsor go about here. You may want to use materials that your sponsors have already shared with you about their institution or coordinate with your stakeholders to include pertinent information here.] {style=text-align:center}
+[Petersburg Wellness Consortium](https://www.pwcpetersburg.org/)
 
 ### Acknowledgements {style=text-align:center}
 
-##### [Optional: You can also include external collaborators in this section or a separate section.] {style=text-align:center}
