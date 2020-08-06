@@ -1,0 +1,32 @@
+---
+title: "Social Factors"
+description: "How does poverty, accessibility, and other factors affect health outcomes?"
+weight: 1
+draft: false
+output: html_document
+---
+
+### Main Findings
+
+#### Food Access
+According to EcoDistricts (2016), a food desert is a community where more than 20 percent of residents are living below the poverty threshold and at least 33 percent of the population lives more than a mile from a supermarket.
+
+#### Pollution
+Pollution is found to have multiple ties to major health issues. It can serve as an indicator for later in life chronic issues such as heart and respiratory diseases.
+<br>
+Air pollution has been shown to have negative impacts on respiratory and cardiovascular health regardless of short term or chronic exposure. 
+<br>
+Long term exposure has been shown to have links to diabetes.
+Specifically, traffic-related air pollution has been shown as a risk factor for Type 2 Diabetes.
+
+#### Poverty
+
+
+### Conclusion and Policy Implications 
+
+[Here you could highlight the main takeaways and the potential policy implications of your findings.] 
+
+### References 
+
+[List your references here using APA format (or at least standardize all of the references using the same format).]
+
