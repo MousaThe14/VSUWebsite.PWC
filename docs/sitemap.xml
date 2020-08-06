@@ -3,38 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/findings/general-overview/</loc>
+    <loc>/findings/social-factors/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-one/</loc>
+    <loc>/findings/policy/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-two/</loc>
+    <loc>/findings/individual-behavior/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-three/</loc>
+    <loc>/findings/health-services/</loc>
   </url>
   
   <url>
-    <loc>/methods/</loc>
-    <priority>0</priority>
+    <loc>/data-methods/</loc>
   </url>
   
   <url>
     <loc>/overview/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/team/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/app/</loc>
   </url>
   
   <url>
@@ -42,23 +35,7 @@
   </url>
   
   <url>
-    <loc>/tags/collapsibletree/</loc>
-  </url>
-  
-  <url>
     <loc>/findings/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/geospatial/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/networks/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
   </url>
   
   <url>

@@ -1,0 +1,37 @@
+---
+#title: "Overview"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Petersburg Wellness Consortium
+The Petersburg Wellness Consortium raises consciousness about health factors and outcomes by empowering community members, sharing capacity-building resources and creating partnerships that promote a healthy community.
+There focus groups include: Chronic Disease, Oral Health, Youth Health
+
+It was launched in Fall 2012 by Dr.Maghboeba Mosavel 
+
+The organization, which is made up of a alliance of stakeholders and WE (academic-community partnership), uses collective resources to try to improve the overall health of Petersburg
+
+### Questions
+What factors affect the improvement of healthy outcomes in Petersburg, VA. 
+
+### Goals
+
+
+### Conclusion
+[general summary conclusion]
+[future plans/findings/next steps]
+
+
+```{r}
+
+```
+
+
+
+```{r}
+
+```
