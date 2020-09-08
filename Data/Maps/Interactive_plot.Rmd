@@ -1,0 +1,37 @@
+---
+title: "First interactive map"
+output: html_document
+---
+
+```{r,echo=FALSE,warning=FALSE,include=FALSE}
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(readr)
+library(tidycensus)
+library(sf)
+library(plotly)
+Commuter_data <- read_csv("/sfs/qumulo/qhome/kj7zz/dspgsummer2020_returntoschoolproject/Commuter_Transportation.csv")
+census_api_key("c12c2d4f8efd1d5e9fe5224749bbe86e119776c4", install = TRUE, overwrite = TRUE)
+readRenviron("~/.Renviron")
+load_variables(year = 2018, dataset = "acs5", cache = TRUE)
+acsdata <- get_acs(geography = "tract", variables = c(vehicles_not_available = "B08014_002",   vehicles_available = "B08014_003"), state = "51", county = "730", geometry = TRUE)
+#view(acsdata)
+vehicles_not_available<- filter(acsdata, variable == "vehicles_not_available")
+#view(vehicles_not_available)
+ggplot(vehicles_not_available, aes(fill = estimate, color = estimate))+
+  geom_sf()+
+  coord_sf(datum = NA)
+```
+
+```{r}
+map_estimate<- ggplotly(ggplot(vehicles_not_available)+
+           geom_sf(aes(fill = estimate, color = estimate)))
+map_estimate
+
+```
+
+## R Markdown
+
+
+
